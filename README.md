@@ -1,9 +1,8 @@
 # Inception
 
-<img width="804" alt="Screen Shot 2024-08-28 at 9 48 31 PM" src="https://github.com/user-attachments/assets/16b8ed6f-a00a-430d-9be9-06525e65e866">
-
-
 This project is part of the 42 curriculum, focusing on building a small infrastructure using Docker. It includes services such as NGINX, WordPress, and MariaDB, each running in isolated Docker containers.
+
+For detailed project requirements, please refer to the [subject PDF](https://github.com/your-username/inception/subject.pdf).
 
 ## Project Structure
 
